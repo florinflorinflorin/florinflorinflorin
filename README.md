@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @florinflorinflorin
-- 🌱 I’m currently learning modeling in R
+- 🌱 I’m currently beginning to model in SLiM and analyzing data in R
 - 😄 Pronouns: he/him
 
 <!---
